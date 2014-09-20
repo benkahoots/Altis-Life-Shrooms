@@ -1,5 +1,5 @@
 /*
-File: fn_gatherMeth.sqf
+File: fn_gatherShrooms.sqf
 Description:
 Gathers Shrooms
 */
